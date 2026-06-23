@@ -1,5 +1,3 @@
-# Castilleja_Angio353
-
 # Castilleja Phylogenomics Pipeline (2025)
 
 This repository contains scripts and workflows used for phylogenomic analyses of *Castilleja* using target enrichment (Angiosperm353) data.
